@@ -38,7 +38,7 @@ body {
 **********************************************/
 
 .top {
-  height: 50vh;
+  height: 40vh;
   background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)),
     url(/pexels-karolina-grabowska-4386.jpg);
   background-size: cover;
