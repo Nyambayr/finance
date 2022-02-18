@@ -40,7 +40,7 @@ var uiController = (function () {
     displayDate: function () {
       var today = new Date();
       document.querySelector(DOMstrings.datalabel).textContent =
-        today.getFullYear() + "  " + today.getMonth() + "/" + today.getDate();
+        today.getMonth() + " / " + today.getDate();
     },
     changeType: function () {
       var fields = document.querySelectorAll(
